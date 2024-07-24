@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D805DE5-D08C-C01F-C29C-42F4FCB51A9D}|Assembly-CSharp.csproj|d:\\workspace\\current\\cat project\\catchatbot\\cat_client\\assets\\scripts\\catcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D805DE5-D08C-C01F-C29C-42F4FCB51A9D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\catcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC63E6E-EC10-425A-188C-28ED8C707512}|com.whisper.unity.csproj|d:\\workspace\\current\\cat project\\whisper\\whisper.unity\\packages\\com.whisper.unity\\runtime\\whisperwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D805DE5-D08C-C01F-C29C-42F4FCB51A9D}|Assembly-CSharp.csproj|D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\assets\\scripts\\buttonevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D805DE5-D08C-C01F-C29C-42F4FCB51A9D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC63E6E-EC10-425A-188C-28ED8C707512}|com.whisper.unity.csproj|d:\\workspace\\current\\cat project\\whisper\\whisper.unity\\packages\\com.whisper.unity\\runtime\\utils\\microphonerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D805DE5-D08C-C01F-C29C-42F4FCB51A9D}|Assembly-CSharp.csproj|D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\assets\\scripts\\microphonedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D805DE5-D08C-C01F-C29C-42F4FCB51A9D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\microphonedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC63E6E-EC10-425A-188C-28ED8C707512}|com.whisper.unity.csproj|d:\\workspace\\current\\cat project\\whisper\\whisper.unity\\packages\\com.whisper.unity\\runtime\\whispermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D805DE5-D08C-C01F-C29C-42F4FCB51A9D}|Assembly-CSharp.csproj|D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D805DE5-D08C-C01F-C29C-42F4FCB51A9D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D805DE5-D08C-C01F-C29C-42F4FCB51A9D}|Assembly-CSharp.csproj|D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D805DE5-D08C-C01F-C29C-42F4FCB51A9D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D805DE5-D08C-C01F-C29C-42F4FCB51A9D}|Assembly-CSharp.csproj|D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\assets\\scripts\\typewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D805DE5-D08C-C01F-C29C-42F4FCB51A9D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\typewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D805DE5-D08C-C01F-C29C-42F4FCB51A9D}|Assembly-CSharp.csproj|D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\assets\\scripts\\restapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D805DE5-D08C-C01F-C29C-42F4FCB51A9D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\restapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAFkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:44:09.653Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WhisperWrapper.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\CURRENT\\Cat Project\\Whisper\\whisper.unity\\Packages\\com.whisper.unity\\Runtime\\WhisperWrapper.cs",
+              "RelativeDocumentMoniker": "..\\..\\Whisper\\whisper.unity\\Packages\\com.whisper.unity\\Runtime\\WhisperWrapper.cs",
+              "ToolTip": "D:\\WorkSpace\\CURRENT\\Cat Project\\Whisper\\whisper.unity\\Packages\\com.whisper.unity\\Runtime\\WhisperWrapper.cs",
+              "RelativeToolTip": "..\\..\\Whisper\\whisper.unity\\Packages\\com.whisper.unity\\Runtime\\WhisperWrapper.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAApwJkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T03:32:32.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonEvent.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\Assets\\Scripts\\ButtonEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonEvent.cs",
+              "ToolTip": "D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\Assets\\Scripts\\ButtonEvent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T01:58:17.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MicrophoneRecord.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\CURRENT\\Cat Project\\Whisper\\whisper.unity\\Packages\\com.whisper.unity\\Runtime\\Utils\\MicrophoneRecord.cs",
+              "RelativeDocumentMoniker": "..\\..\\Whisper\\whisper.unity\\Packages\\com.whisper.unity\\Runtime\\Utils\\MicrophoneRecord.cs",
+              "ToolTip": "D:\\WorkSpace\\CURRENT\\Cat Project\\Whisper\\whisper.unity\\Packages\\com.whisper.unity\\Runtime\\Utils\\MicrophoneRecord.cs",
+              "RelativeToolTip": "..\\..\\Whisper\\whisper.unity\\Packages\\com.whisper.unity\\Runtime\\Utils\\MicrophoneRecord.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwCYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:30:48.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MicrophoneDemo.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\Assets\\Scripts\\MicrophoneDemo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MicrophoneDemo.cs",
+              "ToolTip": "D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\Assets\\Scripts\\MicrophoneDemo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MicrophoneDemo.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:12:56.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WhisperManager.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\CURRENT\\Cat Project\\Whisper\\whisper.unity\\Packages\\com.whisper.unity\\Runtime\\WhisperManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\Whisper\\whisper.unity\\Packages\\com.whisper.unity\\Runtime\\WhisperManager.cs",
+              "ToolTip": "D:\\WorkSpace\\CURRENT\\Cat Project\\Whisper\\whisper.unity\\Packages\\com.whisper.unity\\Runtime\\WhisperManager.cs",
+              "RelativeToolTip": "..\\..\\Whisper\\whisper.unity\\Packages\\com.whisper.unity\\Runtime\\WhisperManager.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAhwOoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T02:55:47.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\Assets\\Scripts\\CatController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CatController.cs",
+              "ToolTip": "D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\Assets\\Scripts\\CatController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CatController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswDIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:45:44.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAE8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:04:50.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TypeWriter.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\Assets\\Scripts\\TypeWriter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TypeWriter.cs",
+              "ToolTip": "D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\Assets\\Scripts\\TypeWriter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TypeWriter.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAADwv0AAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:38:15.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RestAPIController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\Assets\\Scripts\\RestAPIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RestAPIController.cs",
+              "ToolTip": "D:\\WorkSpace\\CURRENT\\Cat Project\\CatChatBot\\cat_client\\Assets\\Scripts\\RestAPIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RestAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:55:54.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
